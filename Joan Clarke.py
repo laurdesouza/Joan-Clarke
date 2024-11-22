@@ -4,7 +4,7 @@ def resumo():
 
 
 def doutorado():
-    mensagem = "Joan Clarke (ou Joan Elisabeth Lowther Clarke) não tinha um doutorado. Ela se formou em matemática pela Universidade de Cambridge com destaque, obtendo um grau de primeira classe em 1939. No entanto, devido às políticas de gênero da época, Cambridge não conferia diplomas completos às mulheres, mesmo que elas tivessem alcançado resultados equivalentes aos de seus colegas homens. Apesar disso, Clarke demonstrou uma capacidade intelectual extraordinária e fez contribuições notáveis no campo da criptografia durante a Segunda Guerra Mundial. Seu trabalho em Bletchley Park, decifrando códigos da máquina Enigma, é amplamente reconhecido como uma contribuição crucial para os esforços de guerra dos Aliados."
+    mensagem = "Joan Clarke (Joan Elisabeth Lowther Clarke) não tinha um doutorado. Ela se formou em matemática pela Universidade de Cambridge com destaque, obtendo um grau de primeira classe em 1939. No entanto, devido às políticas de gênero da época, Cambridge não conferia diplomas completos às mulheres, mesmo que elas tivessem alcançado resultados equivalentes aos de seus colegas homens. Apesar disso, Clarke demonstrou uma capacidade intelectual extraordinária e fez contribuições notáveis no campo da criptografia durante a Segunda Guerra Mundial. Seu trabalho em Bletchley Park, decifrando códigos da máquina Enigma, é amplamente reconhecido como uma contribuição crucial para os esforços de guerra dos Aliados."
     return mensagem
 
 
